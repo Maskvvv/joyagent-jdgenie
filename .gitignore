@@ -1,0 +1,4 @@
+ui/pnpm-lock.yaml
+.idea/*
+/.idea/
+genie-client/uv.lock

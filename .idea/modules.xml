@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/genie-client/genie-client/genie-client.iml" filepath="$PROJECT_DIR$/genie-client/genie-client/genie-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/joyagent-jdgenie.iml" filepath="$PROJECT_DIR$/.idea/joyagent-jdgenie.iml" />
     </modules>
   </component>
